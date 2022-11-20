@@ -15,7 +15,7 @@ st.set_page_config(page_title="Bata Baca Web App", page_icon=pageicon, layout="c
 st.title('Yuk Kenali Motif Batikmu!')
 
 # DESCRIPTION
-st.markdown('<div style="text-align: justify; font-size:160%"> Apakah kalian memiliki batik yang yang belum diketahui jenis motifnya? Nah, untuk menjawab rasa penasaran itu, yuk <i>upload</i> foto motif batik yang kalian punya disini! Kalian bisa langsung meng-<i>upload</i> batik kalian atau dapat menggunakan live foto pada <i>website</i> kami! <i>Lets try</i>!!! </div>',
+st.markdown('<div style="text-align: justify; font-size:160%"> Apakah kalian memiliki batik yang yang belum diketahui jenis motifnya? Nah, untuk menjawab rasa penasaran itu, yuk <i>upload</i> foto motif batik yang kalian punya disini! Kalian bisa langsung meng-<i>upload</i> batik kalian atau dapat menggunakan <i>live photo</i> pada <i>website</i> kami! <i>Lets try</i>!!! </div>',
             unsafe_allow_html=True)
 st.write('')
 
