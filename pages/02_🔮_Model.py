@@ -1,7 +1,6 @@
 import streamlit as st
 import numpy as np
 import tensorflow as tf
-import cv2
 from tensorflow import keras
 from keras.utils import load_img, img_to_array
 from keras.applications.inception_v3 import preprocess_input
