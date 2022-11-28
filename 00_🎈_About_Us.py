@@ -25,7 +25,7 @@ col3, col4 = st.columns(2)
 
 foto_adam = Image.open('foto_adam4.png').resize((400,400))
 foto_alya = Image.open('foto_alya2.jpeg').resize((400,400))
-foto_hanif = Image.open('foto_hanif.jpeg').resize((400,400))
+foto_hanif = Image.open('foto_hanif.jpg').resize((400,400))
 foto_naura = Image.open('foto_annaura3.png').resize((400,400))
 
 # For columns 1 : Introduce Adam Maurizio Winata
